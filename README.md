@@ -30,4 +30,6 @@ To predict dock availability, we need to analyze the bike throughput of each sta
 Bike throughput here means accumulated number of bikes that are being taken or being returned in a day. Presumably, factors such as weather, locations, day of the week should be taken into account when we try to predict dock availability.
 For example, for stations located in office districts, people will ride their bikes there on weekdays, consequently there will be more bikes being returned on weekdays compared to weekends, so it is more likely for those stations to run out of empty docks.
 
-Now we understand the purpose of this project and how data analysis can play a part, let us get started to gain some hands-on experience!
+Now we understand the purpose of this project and how data analysis can play a part, let us get started to gain some hands-on experience! 
+
+You can download my python code and give it a try!
